@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="20" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)"/>
+  <rect width="506" height="506" x="3" y="3" rx="125" fill="none" stroke="url(#neonGrad)" stroke-width="6" stroke-opacity="0.5"/>
+
+  <circle cx="256" cy="256" r="140" fill="url(#neonGrad)" opacity="0.3" filter="url(#glow)"/>
+
+  <g transform="translate(256, 256) scale(1.15) translate(-256, -256)">
+    <path d="M140 180 C140 166.7, 150.7 156, 164 156 L348 156 C361.3 156, 372 166.7, 372 180 C372 193.3, 361.3 204, 348 204 L164 204 C150.7 204, 140 193.3, 140 180 Z" fill="url(#cyanGrad)"/>
+    <path d="M232 204 L232 344 C232 357.3, 242.7 368, 256 368 C269.3 368, 280 357.3, 280 344 L280 204 Z" fill="url(#neonGrad)"/>
+    <path d="M256 110 L304 176 L272 176 L256 150 L240 176 L208 176 Z" fill="#ffffff"/>
+  </g>
+</svg>
