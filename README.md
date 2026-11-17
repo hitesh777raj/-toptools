@@ -26,7 +26,7 @@ Most AI directories are graveyards of 5,000+ dead links. StackBlueprint is desig
 ---
 
 ## 👤 Founder & Creator
-Handcrafted and built in public by **Hitesh Chaturvedi** (Founder, Hitesh Innovation).  
+Handcrafted and built in public by **Hitesh Chaturvedi** (Founder, Hitesh Innovation IT).  
 - **LinkedIn:** [Hitesh Chaturvedi](https://www.linkedin.com/in/hitesh-chaturvedi-15bb2b449/)  
 - **X (Twitter):** [@KrishnaCha60537](https://x.com/KrishnaCha60537)
 
