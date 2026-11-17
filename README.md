@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 StackBlueprint.io (TopTools)
+> The curated directory of verified AI software, multi-tool workflow blueprints with live handoff bridges, and in-browser developer utilities.
 
-## Getting Started
+🌐 **Primary Live URL:** [https://stackblueprint-io.vercel.app](https://stackblueprint-io.vercel.app)  
+⚡ **Alternative URL:** [https://toptools-seven.vercel.app](https://toptools-seven.vercel.app)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ⚡ What is StackBlueprint?
+Most AI directories are graveyards of 5,000+ dead links. StackBlueprint is designed to eliminate AI tool fragmentation and tab fatigue:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **⭐ 50+ Curated Core Tools:** Strictly hand-tested, high-utility software (zero spam wrappers).
+- **🌉 Chained Workflow Blueprints:** Multi-tool recipes (Faceless Studio, Podcast-to-Shorts, 48h SaaS Launch) with live **Handoff Bridges** showing how Output A directly feeds Input B.
+- **🧰 2026 Developer Utilities:** Free in-browser AI Token & Cost Estimator, Frontier XML Prompt Architect, and Aspect Ratio Scaler.
+- **🚀 Community Startups Showcase:** A dedicated space spotlighting emerging software built by indie founders globally.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ The Tech Stack
+- **Framework:** Next.js 15+ (App Router)
+- **Styling:** Tailwind CSS (Dark Mode Aesthetics)
+- **Database:** Supabase PostgreSQL with Row Level Security (RLS)
+- **Global Deployment:** Vercel Global Edge CDN
+- **Payments:** Lemon Squeezy (Merchant of Record)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 👤 Founder & Creator
+Handcrafted and built in public by **Hitesh Chaturvedi** (Founder, Hitesh Innovation).  
+- **LinkedIn:** [Hitesh Chaturvedi](https://www.linkedin.com/in/hitesh-chaturvedi-15bb2b449/)  
+- **X (Twitter):** [@KrishnaCha60537](https://x.com/KrishnaCha60537)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Building the future of software with community support ❤️*
